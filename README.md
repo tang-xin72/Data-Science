@@ -2,7 +2,7 @@
 A Data Science Master's candidate through 10 courses Master program.
 
 # Key Skills in Data Science:
-1.Analytical skills
+1. Analytical skills
 2. Data preparation, Exploration and Analysis
 3. Statistics using R, Python and other statstics software like JMP
 4. Data Mining
