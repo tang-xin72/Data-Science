@@ -1,14 +1,14 @@
-# About 
+# About myself
 A passionate Data Science Master's candidate, graduate in spring 2025 after through 10 courses Master program.
 
 ## Key Skills learnt:
-1. Analytical skills
-2. Data preparation, Exploration and Analysis
-3. Statistics using R, Python and other statstics software like JMP
+1. Data Analytical skills
+2. Data Preparation, Exploration and Analysis
+3. Statistical analysis using R, Python and other statstics software like JMP
 4. Data Mining
-5. Predictive Analytics and model selection
-6. Data visualization and preparation
-7. Database management and design
+5. Predictive Analytics and Model Selection
+6. Data Visualization and Preparation
+7. Database Management and Design
 
 ## Software Skills
 Python, R, Power BI, Tableau, SQL, Java
